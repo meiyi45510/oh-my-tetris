@@ -1,4 +1,4 @@
-# Tetris（俄罗斯方块）
+# oh-my-tetris
 
 一个使用 Pygame 开发的经典俄罗斯方块游戏，包含完整的现代俄罗斯方块机制（SRS、锁定延迟、DAS/ARR 等）。
 
